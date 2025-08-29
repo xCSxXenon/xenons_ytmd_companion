@@ -1,6 +1,8 @@
 # Xenon's YTMD Companion
 An Android app that integrates with the unofficial YouTube Music Desktop application for remote control and monitoring.
 
+[Click here for YTMD](https://github.com/ytmdesktop/ytmdesktop)
+
 <img src = ".github/images/readme/Main_Preview.jpg" width = 300>
 
 # YTMD Setup
