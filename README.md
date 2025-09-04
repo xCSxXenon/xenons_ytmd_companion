@@ -50,7 +50,7 @@ An Android app that integrates with the unofficial YouTube Music Desktop applica
 <a name="find-ip-address-instruction"></a>
 # What's my IP?
 ### 1. Open CMD.exe
-### 2. Run `ipconfig
+### 2. Run `ipconfig`
 ### 3. Look for 'IPv4 address' in the results
 > [!TIP]
 > There may be more than one result. Typically it will be `10.0.0.xxx` for Xfinity/Comcast or `192.168.1.xxx` for any other provider or 3rd-party equipment.
